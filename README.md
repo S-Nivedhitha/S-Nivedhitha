@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm a research fellow from biochemical engineering background. 
-I'm currently learning Python and ML 
+I'm a research fellow from biochemical engineering background. ...
+I'm currently learning Python and ML.. ...
 Newbie to Github world, hoping to connect with the community!
 
 <!--
