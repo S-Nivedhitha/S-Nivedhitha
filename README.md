@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- I'm a research fellow from biochemical engineering background. ...
-- I'm currently learning Python and ML.. ...
+- I'm a researcher from biochemical engineering background.
+- I have some prior experience with mathematical modelling (in MATLAB and modelica (DYMOLA))
+- I'm currently learning Python and looking forward to learn more of ML.
 - Newbie to Github world, hoping to connect with the community!
 
 <!--
